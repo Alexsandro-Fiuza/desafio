@@ -1,0 +1,18 @@
+body {
+    background: rgb(58, 58, 133);
+}
+
+div#res {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: x-large;
+    border: 1px solid white;
+    border-radius: 5px;
+    text-align: center;
+    margin: auto;
+    padding: 8px;
+    margin-top: 300px;
+    width: 250px;
+}
